@@ -4,7 +4,7 @@
 version: 1.0
 app:
   # build id to deploy. if 'version' is commented out, the application is not deployed
-  version: ""
+  version: "50f28ea9-4ba4-46df-b419-4a4ab5c4d73f"
   
   # number of instances
   instances:
